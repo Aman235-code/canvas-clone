@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "title": "Web Development",
+    "instructor": "John Doe",
+    "progress": 70
+  },
+  {
+    "id": "2",
+    "title": "Data Structures",
+    "instructor": "Jane Smith",
+    "progress": 50
+  },
+  {
+    "id": "3",
+    "title": "Machine Learning",
+    "instructor": "Alan Turing",
+    "progress": 90
+  },
+  {
+    "id": "4",
+    "title": "Database Systems",
+    "instructor": "Grace Hopper",
+    "progress": 40
+  },
+  {
+    "id": "5",
+    "title": "Operating Systems",
+    "instructor": "Dennis Ritchie",
+    "progress": 60
+  },
+  {
+    "id": "6",
+    "title": "Cybersecurity",
+    "instructor": "Ada Lovelace",
+    "progress": 80
+  }
+]

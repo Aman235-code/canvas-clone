@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "task": "Submit Assignment 1",
+        "due": "2025-07-27",
+        "done": false
+    },
+    {
+        "id": 2,
+        "task": "Finish Reading Chapter 3",
+        "due": "2025-07-28",
+        "done": false
+    },
+    {
+        "id": 3,
+        "task": "Attend Group Meeting",
+        "due": "2025-07-29",
+        "done": true
+    },
+    {
+        "id": 4,
+        "task": "Complete Quiz",
+        "due": "2025-07-30",
+        "done": false
+    }
+]

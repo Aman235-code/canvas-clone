@@ -1,0 +1,29 @@
+[
+    {
+      "id": 1,
+      "title": "Intro to React",
+      "overview": "This course covers the fundamentals of React including JSX, components, props, and hooks.",
+      "assignments": [
+        { "title": "JSX Basics", "due": "2025-07-30", "status": "Submitted" },
+        { "title": "Props & State", "due": "2025-08-02", "status": "Pending" }
+      ],
+      "grades": [
+        { "assignment": "JSX Basics", "score": "95%" },
+        { "assignment": "Props & State", "score": "88%" }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Advanced JavaScript",
+      "overview": "Deep dive into closures, scopes, asynchronous JavaScript, and ES6+ features.",
+      "assignments": [
+        { "title": "Closures HW", "due": "2025-07-28", "status": "Submitted" },
+        { "title": "Async Await", "due": "2025-08-05", "status": "Pending" }
+      ],
+      "grades": [
+        { "assignment": "Closures HW", "score": "91%" },
+        { "assignment": "Async Await", "score": "Pending" }
+      ]
+    }
+  ]
+  
