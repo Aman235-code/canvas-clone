@@ -24,6 +24,58 @@
         { "assignment": "Closures HW", "score": "91%" },
         { "assignment": "Async Await", "score": "Pending" }
       ]
+    },
+    {
+      "id": 3,
+      "title": "UI/UX Design Fundamentals",
+      "overview": "Learn design principles, wireframing, prototyping, and usability testing for effective interfaces.",
+      "assignments": [
+        { "title": "Design Audit", "due": "2025-08-01", "status": "Submitted" },
+        { "title": "Figma Wireframe", "due": "2025-08-07", "status": "Pending" }
+      ],
+      "grades": [
+        { "assignment": "Design Audit", "score": "89%" },
+        { "assignment": "Figma Wireframe", "score": "Pending" }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Data Structures in Python",
+      "overview": "Study arrays, linked lists, trees, stacks, and queues using Python for coding interviews.",
+      "assignments": [
+        { "title": "Tree Traversals", "due": "2025-08-03", "status": "Pending" },
+        { "title": "Stacks & Queues", "due": "2025-08-10", "status": "Pending" }
+      ],
+      "grades": [
+        { "assignment": "Tree Traversals", "score": "Pending" },
+        { "assignment": "Stacks & Queues", "score": "Pending" }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Web Accessibility",
+      "overview": "Ensure your websites are usable by everyone by learning ARIA roles, semantic HTML, and testing tools.",
+      "assignments": [
+        { "title": "Accessibility Report", "due": "2025-07-29", "status": "Submitted" },
+        { "title": "Screen Reader Test", "due": "2025-08-04", "status": "Pending" }
+      ],
+      "grades": [
+        { "assignment": "Accessibility Report", "score": "92%" },
+        { "assignment": "Screen Reader Test", "score": "Pending" }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Version Control with Git",
+      "overview": "Master Git basics, branching strategies, pull requests, and GitHub collaboration.",
+      "assignments": [
+        { "title": "Branching Workflow", "due": "2025-07-31", "status": "Submitted" },
+        { "title": "GitHub Project Setup", "due": "2025-08-06", "status": "Pending" }
+      ],
+      "grades": [
+        { "assignment": "Branching Workflow", "score": "97%" },
+        { "assignment": "GitHub Project Setup", "score": "Pending" }
+      ]
     }
   ]
   
