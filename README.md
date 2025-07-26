@@ -50,7 +50,7 @@ canvas-clone/
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/canvas-clone.git
+git clone https://github.com/Aman235-code/canvas-clone
 cd canvas-clone
 npm install
 npm run dev
